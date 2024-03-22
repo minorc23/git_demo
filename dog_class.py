@@ -8,3 +8,5 @@ class Dog():
     
     def roll_over(self):
         print(self.name.title() + " rolled over!")
+
+my_dog=Dog('Rufort',6)
