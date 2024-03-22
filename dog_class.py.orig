@@ -9,6 +9,9 @@ class Dog():
     def roll_over(self):
         print(self.name.title() + " rolled over!")
 
+<<<<<<< HEAD
 my_dog=Dog('Rufort',6)
+=======
 print("My dog's name is " + my_dog.name.title() + ".")
 print("My dog's age is " + str(my_dog.age) + ".")
+>>>>>>> feature/add-print-statement
