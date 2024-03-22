@@ -8,3 +8,6 @@ class Dog():
     
     def roll_over(self):
         print(self.name.title() + " rolled over!")
+
+print("My dog's name is " + my_dog.name.title() + ".")
+print("My dog's age is " + str(my_dog.age) + ".")
